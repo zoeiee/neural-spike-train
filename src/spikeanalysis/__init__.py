@@ -1,0 +1,1 @@
+"""Empirical spike trains, event alignment, and trial-wise uncertainty."""
